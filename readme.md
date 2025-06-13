@@ -9,3 +9,6 @@ it would be too messy if i put all the related files here, so we only use brown 
 and we already did all the preprocessing for you
 
 you don't need to unzip zip here
+
+contributor:
+[Shem](mailto:shemlawalata@gmail.com)
